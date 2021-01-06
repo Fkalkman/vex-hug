@@ -1,6 +1,6 @@
 ---
 - id: add_to_cart
-  translation: Voeg toe aan winkel wagen
+  translation: add to cart
 - id: send
   translation: Send Now
 - id: subscribe
