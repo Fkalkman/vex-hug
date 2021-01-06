@@ -1,6 +1,4 @@
 ---
-- id: add_to_cart
-  translation: add to cart
 - id: send
   translation: Send Now
 - id: subscribe
