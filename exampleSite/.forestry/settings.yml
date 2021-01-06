@@ -8,7 +8,7 @@ sections:
   label: Homepage
 - type: document
   path: exampleSite/data/en/homepage.yml
-  label: Homepage (en)
+  label: Hoofdmenu
 - type: document
   path: exampleSite/data/fr/homepage.yml
   label: Homepage (fr)
@@ -30,10 +30,10 @@ sections:
   templates:
   - post
 - type: heading
-  label: Products
+  label: Producten
 - type: directory
   path: exampleSite/content/english/products
-  label: Product (en)
+  label: 'Producten '
   create: documents
   match: "**/*"
   templates:
