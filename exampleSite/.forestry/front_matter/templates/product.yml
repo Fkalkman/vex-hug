@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
 - type: image_gallery
   name: images
   label: images
@@ -17,9 +14,6 @@ fields:
 - type: text
   name: price
   label: price
-- type: text
-  name: discount_price
-  label: discount_price
 - type: tag_list
   name: colors
   label: colors
