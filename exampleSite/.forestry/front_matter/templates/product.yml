@@ -11,25 +11,35 @@ fields:
 - type: text
   name: description
   label: description
-- type: text
-  name: price
-  label: price
 - type: tag_list
   name: colors
   label: colors
-- type: tag_list
-  name: sizes
-  label: sizes
+- type: text
+  name: price
+  label: price
+- name: price_4
+  type: text
+  config:
+    required: false
+  label: Price
+- name: price_3
+  type: text
+  config:
+    required: false
+  label: Price
+- name: price_2
+  type: text
+  config:
+    required: false
+  label: Price
 - name: price_1
   type: text
   config:
     required: false
   label: Price
   hidden: false
-- name: price_2
-  type: text
-  config:
-    required: false
-  label: Price
+- type: tag_list
+  name: sizes
+  label: sizes
 pages:
 - exampleSite/content/english/products/iphone-12-64-gb-zwart.md
