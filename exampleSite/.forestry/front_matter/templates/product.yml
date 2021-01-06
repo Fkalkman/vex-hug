@@ -20,5 +20,16 @@ fields:
 - type: tag_list
   name: sizes
   label: sizes
+- name: price_1
+  type: text
+  config:
+    required: false
+  label: Price
+  hidden: false
+- name: price_2
+  type: text
+  config:
+    required: false
+  label: Price
 pages:
 - exampleSite/content/english/products/iphone-12-64-gb-zwart.md
