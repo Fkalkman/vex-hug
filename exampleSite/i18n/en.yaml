@@ -1,6 +1,4 @@
 ---
-- id: ''
-  translation: ''
 - id: add_to_cart
   translation: Voeg toe aan winkel wagen
 - id: send
