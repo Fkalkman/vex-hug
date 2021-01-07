@@ -1,5 +1,6 @@
 +++
 Titel = "Iphone 12 - 64 GB"
+beschrijving = "Dit is de iphone 12 met 64 GB opslag."
 colors = ["Zwart", "Rood", "Groen", "Blauw", "Wit"]
 date = ""
 description = "Dit is de Iphone 12. Met een opslag van 64 GB. Elke kleur heeft een andere prijs klassen .De prijzen liggen tussen de 894,- en de 914,-"
