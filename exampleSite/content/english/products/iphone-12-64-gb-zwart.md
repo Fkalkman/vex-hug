@@ -1,14 +1,14 @@
 +++
 colors = ["Zwart", "Rood", "Groen", "Blauw", "Wit"]
 date = ""
-description = "Dit is een Iphone 12. Heeft een opslag van 64 GB"
+description = "Merk Apple Model MGJ53ZD/A Artikelnummer 2202,1492 Garantie Tooltip 2 jaar Type garantie Tooltip Carry-in EAN 0194252029619 Verpakkingsinhoud Handleiding | Simkaartpin | Smartphone Kenmerken Kleur Zwart Sim informatie Simlockvrij Tooltip Ja Simkaart die past Nano SIM | eSIM Dual-sim Nee Simkaart meegeleverd Nee Provider Geen provider Software Besturingssysteem Tooltip iOS 14 Display Schermgrootte Tooltip 6.1 inch Resolutie 2532 x 1170 pixels Opslaggeheugen Opslagcapaciteit Tooltip 64 GB Extern geheugenslot Tooltip Nee Maximale geheugenkaartcapaciteit Geen kaart Type extern geheugen Geen extern geheugenslot Camera Aantal megapixels Tooltip 12 megapixels Frontcamera Ja Aantal megapixels frontcamera 12 megapixels Flitser frontcamera Nee Camera opties Beeldstabilisatie | Flitser | Nachtmodus | Optische zoom | Portretmodus | Ultra Wide Angle Processor Processorkernen Hexa core (6) Werkgeheugen (RAM) 4GB Batterij Batterij capaciteit Tooltip 2775 mAh Draadloos opladen Ja Eigenschappen Spraakbesturing Tooltip Ja Vingerafdrukscanner Nee Geschikt voor onderwater Tooltip Ja Schokbestendig Nee Connectiviteit Wifi Tooltip Ja Netwerksnelheid 5G GPS Tooltip Ja A-GPS Ja Bluetooth Tooltip Bluetooth 5.0 Bluetooth versie Bluetooth 5.0 NFC Tooltip Ja SAT-waarde B (0.4 < 0.8 W/kg) Type aansluiting Apple Lightning Mogelijke vereisten instellen en gebruik Kan zelfstandig met internet verbinden Tooltip Ja App vereist voor gehele functionaliteit Tooltip Nee App werkt op besturingssysteem Tooltip iOS Delen van gebruikersgegevens vereist Tooltip Ja, bij aanmaken van account bij app Wifi vereist Tooltip Nee Bluetooth vereist Nee Mobiele data verbinding mogelijk Tooltip Ja Betaalde diensten vereist Tooltip Nee Compatibel met Tooltip Met apparaten in het ecosysteem van fabrikant Introductie en ondersteuning Introductiejaar 2020 Introductiemaand Oktober Ondersteuning met updates Minimaal 12 maanden na introductiedatum Overige kenmerken Aantal camera's achterzijde 2 Aantal camera's voorzijde 1 Aantal kaartsloten 0 Frequentie beveiligingsupdates Maandelijks Gewicht 326 g IP-certificering IP68 (volledig stofdicht en volledig waterdicht) Inclusief gezichtsherkenning Ja Materiaal behuizing Aluminium Productconditie Nieuw (niet refurbished) Refurbished Nee Refurbished door Niet van toepassing Taal handleiding Universeel Type scherm Super Retina XDR-display Uitzonderingen fabrieksgarantie Val & stootschade en gebruikersslijtage Verpakking breedte 91 mm Verpakking hoogte 33 mm Verpakking lengte 165 mm Vouwbaar scherm Nee Zaklamp Ja Je vindt dit artikel in Categorieën Smartphones Merk Apple Introductiejaar 2020 Opslagcapaciteit Gemiddeld (32GB t/m 64GB) Schermgrootte Groot (vanaf 6 inch)"
 discount_price = ""
 images = ["/images/apple-iphone-12-64-gb-zwart.jpg", "/images/apple-iphone-12-64gb-rood.jpg", "/images/apple-iphone-12-64gb-groen.jpg", "/images/apple-iphone-12-64gb-blauw.jpg", "/images/apple-iphone-12-64gb-wit.jpg"]
-price = "929,- Zwart           "
-price_1 = "904,- Wit "
-price_2 = " 899,- Blauw "
-price_3 = "904,- Groen"
-price_4 = "896,- Rood"
+price = " "
+price_1 = ""
+price_2 = ""
+price_3 = ""
+price_4 = ""
 sizes = []
 title = "Iphone 12 - 64 GB "
 
