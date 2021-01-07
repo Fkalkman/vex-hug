@@ -5,18 +5,6 @@ fields:
 - type: text
   name: Titel
   label: Titel
-- name: kleuren
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Kleuren
 - type: image_gallery
   name: images
   label: images
@@ -29,6 +17,15 @@ fields:
     required: false
   label: Price
   hidden: false
+- name: beschrijving
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Beschrijving
 - type: tag_list
   name: sizes
   label: sizes
