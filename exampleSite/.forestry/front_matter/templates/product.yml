@@ -3,39 +3,26 @@ label: Producten
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: Titel
+  label: Titel
+- name: kleuren
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Kleuren
 - type: image_gallery
   name: images
   label: images
-- type: text
-  name: description
-  label: description
-  description: 'beschrijving '
-  hidden: false
-  config:
-    required: false
 - type: tag_list
   name: colors
   label: colors
-- type: text
-  name: price
-  label: price
-- name: price_4
-  type: text
-  config:
-    required: false
-  label: Price
-- name: price_3
-  type: text
-  config:
-    required: false
-  label: Price
-- name: price_2
-  type: text
-  config:
-    required: false
-  label: Price
 - name: price_1
   type: text
   config:
