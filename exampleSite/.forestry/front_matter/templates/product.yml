@@ -11,6 +11,10 @@ fields:
 - type: text
   name: description
   label: description
+  description: 'beschrijving '
+  hidden: false
+  config:
+    required: false
 - type: tag_list
   name: colors
   label: colors
